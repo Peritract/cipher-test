@@ -21,6 +21,8 @@ There is **far** too much work here to be done in the time you've been given. Yo
 5. Given an encrypted string with an unknown shift, identify all possible decryptions.
 6. Given an encrypted string with an unknown shift, identify the three most likely decryptions.
 
-## Test data
+## Resources
+
+[Words.txt](./words.txt) contains a list of common English words.
 
 If you need to generate test data, you can use [this website](https://cryptii.com/pipes/caesar-cipher).
