@@ -1,4 +1,4 @@
-# Word Game (Scrabble)
+# Cipher
 
 ## Background
 
